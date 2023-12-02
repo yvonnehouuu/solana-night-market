@@ -1,0 +1,17 @@
+{
+  "name": "mymarket1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@motleylabs/mtly-nightmarket": "^1.3.0",
+    "@solana/web3.js": "^1.78.5",
+    "ts-node": "^10.9.1"
+  }
+}
