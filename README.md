@@ -1,4 +1,4 @@
-[TOC]
+# Solana Night Market
 ## About Solana Night Market[🔗](https://nightmarket.io/)
 Unlike the auction house created by individual users, it is an open auction house, providing all users with the freedom to trade on it.
 
