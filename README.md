@@ -5,7 +5,7 @@ Unlike the auction house created by individual users, it is an open auction hous
 ## NightmarketClient (`@motleylabs/mtly-nightmarket`)
 [**NightmarketClient**](https://motleylabs.github.io/mtly-nightmarket/classes/NightmarketClient.html)
 
-[**github**](https://github.com/motleylabs/mtly-nightmarket)
+[**github(mtly-nightmarket)**](https://github.com/motleylabs/mtly-nightmarket)
 
 You can use the Night Market SDK to create the instructions required for the transaction, and since it supports lookup tables, the transaction type is `V0`.
 
